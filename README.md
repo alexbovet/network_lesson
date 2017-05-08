@@ -1,5 +1,4 @@
-# network_lesson
-Lesson on Twitter Social Network Analysis
+# Lesson on Twitter Social Network and Sentiment Analysis
 
 This is an interactive introductory lesson that covers the following topics:
 
