@@ -13,5 +13,6 @@ You need to have python3 installed with [Anaconda](https://www.continuum.io/down
 
 And here is what you should get at the end:
 
-![Twitter Network](emo_network.png "Twitter Network") 
+![Twitter Network](emo_network.png "Twitter Network")
 
+http://alexbovet.github.io/
